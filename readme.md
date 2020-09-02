@@ -56,16 +56,19 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Intake (week 1)
 
-**Je startniveau:** -Rood-
+**Je startniveau:** Rood
 
-**Je focus:** -Responsive-
+**Je focus:** Responsive
 
-**Je opdracht:** -https://nl.pinterest.com-
+**Je opdracht:** https://nl.pinterest.com
 
 **Screenshot(s):**
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/dummy-image.svg)
+![Screenshot homepage Pinterest](https://github.com/jamero7/FED20/blob/master/images/ScreenshotPinterest.png?raw=true)
+
+![Screenshot detailpagina Pinterest](https://github.com/jamero7/FED20/blob/master/images/ScreenshotPinterest2.png?raw=true)
+
 
 **Breakdown-schets(en):**
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/dummy-image.svg)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](https://github.com/jamero7/FED20/blob/master/images/Breakdownschets.jpg?raw=true)
