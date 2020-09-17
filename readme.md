@@ -38,11 +38,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+Het uitlijnen van iconen was lastig. 
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent-
+![Screenshot voortgangsgesprek](https://github.com/jamero7/FED20/blob/master/images/ScreenshotVoortgang1.png?raw=true)
 
 ### Agenda voor meeting
 
