@@ -1,8 +1,8 @@
 // JavaScript Document
-var startpagina = document.querySelector("#startpagina");
-var volgend = document.querySelector("#volgend");
-var meldingen = document.querySelector("#meldingen");
-var bewaard = document.querySelector("#bewaard");
+const startpagina = document.querySelector("#startpagina");
+const volgend = document.querySelector("#volgend");
+const meldingen = document.querySelector("#meldingen");
+const bewaard = document.querySelector("#bewaard");
 
 startpagina.addEventListener("click", function(){
     startpagina.classList.add("actief");
