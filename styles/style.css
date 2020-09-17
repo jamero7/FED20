@@ -43,11 +43,11 @@ header div{
 }
 
 header button:first-of-type{
-    background: url(file:///Users/jamero/Library/Mobile%20Documents/com~apple~CloudDocs/School/FED%20Her/basiswebsite/images/iconen/toevoegen.svg) no-repeat center;
+    background: url(https://raw.githubusercontent.com/jamero7/FED20/50c091b684a37021ab5a68bb0a6b499cfa8188a4/images/iconen/toevoegen.svg) no-repeat center;
 }
 
 header button{
-    background: url(file:///Users/jamero/Library/Mobile%20Documents/com~apple~CloudDocs/School/FED%20Her/basiswebsite/images/iconen/berichten.svg) no-repeat center;
+    background: url(https://raw.githubusercontent.com/jamero7/FED20/50c091b684a37021ab5a68bb0a6b499cfa8188a4/images/iconen/berichten.svg) no-repeat center;
     border: none;
     margin: 0.25rem;
     padding: 0;
@@ -86,19 +86,19 @@ nav ul li{
 }
 
 nav ul li:nth-of-type(1){
-    background: url(file:///Users/jamero/Library/Mobile%20Documents/com~apple~CloudDocs/School/FED%20Her/basiswebsite/images/iconen/startpagina.svg) no-repeat center;
+    background: url(https://raw.githubusercontent.com/jamero7/FED20/50c091b684a37021ab5a68bb0a6b499cfa8188a4/images/iconen/startpagina.svg) no-repeat center;
 }
 
 nav ul li:nth-of-type(2){
-    background: url(file:///Users/jamero/Library/Mobile%20Documents/com~apple~CloudDocs/School/FED%20Her/basiswebsite/images/iconen/volgend.svg) no-repeat center;
+    background: url(https://raw.githubusercontent.com/jamero7/FED20/50c091b684a37021ab5a68bb0a6b499cfa8188a4/images/iconen/volgend.svg) no-repeat center;
 }
 
 nav ul li:nth-of-type(3){
-    background: url(file:///Users/jamero/Library/Mobile%20Documents/com~apple~CloudDocs/School/FED%20Her/basiswebsite/images/iconen/meldingen.svg) no-repeat center;
+    background: url(https://raw.githubusercontent.com/jamero7/FED20/50c091b684a37021ab5a68bb0a6b499cfa8188a4/images/iconen/meldingen.svg) no-repeat center;
 }
 
 nav ul li:nth-of-type(4){
-    background: url(file:///Users/jamero/Library/Mobile%20Documents/com~apple~CloudDocs/School/FED%20Her/basiswebsite/images/iconen/bewaard.svg) no-repeat center;
+    background: url(https://raw.githubusercontent.com/jamero7/FED20/50c091b684a37021ab5a68bb0a6b499cfa8188a4/images/iconen/bewaard.svg) no-repeat center;
 }
 
 .actief{
@@ -129,7 +129,7 @@ section button{
     position: absolute;
     right: 0;
     bottom: 1rem;
-    background: url('file:///Users/jamero/Library/Mobile%20Documents/com~apple~CloudDocs/School/FED%20Her/basiswebsite/images/iconen/opties.svg') no-repeat center;
+    background: url('https://raw.githubusercontent.com/jamero7/FED20/50c091b684a37021ab5a68bb0a6b499cfa8188a4/images/iconen/opties.svg') no-repeat center;
     border: none;
     background-color: #fff;
     text-indent: -9999px;
