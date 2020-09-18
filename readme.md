@@ -51,9 +51,9 @@ Het uitlijnen van iconen was lastig.
 ### Verslag van meeting
 
 Volgens Victor ben ik goed op weg. Ik had een aantal vragen die hij heeft kunnen beantwoorden en ik kreeg nog een tip. Aan de volgende punten ga ik werken:
-..*Buttons leeglaten wanneer je geen tekst er in wil.
-..*SVG in html, gebruik fill om de kleur te veranderen.
-..***TIP**Probeer een animatie toe te voegen bij ‘opties’.
+-*Buttons leeglaten wanneer je geen tekst er in wil.
+-SVG in html, gebruik fill om de kleur te veranderen.
+-**TIP**Probeer een animatie toe te voegen bij ‘opties’.
 
 
 
