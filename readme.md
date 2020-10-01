@@ -30,13 +30,17 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+### Stand van zaken
 
+- Toepassen van animaties is lastig.
+
+- Kleuren SVG's verandere met JS is nog niet helemaal gelukt. 
 
 
 ## Voortgang 1 (week 3)
 
 ### Stand van zaken
+![Screenshot voortgangsgesprek](https://github.com/jamero7/FED20/blob/master/images/ScreenshotVoortgang2.png?raw=true)
 
 Het uitlijnen van iconen was lastig. 
 
