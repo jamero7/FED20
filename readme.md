@@ -6,15 +6,18 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
+1. Robert Spier
+2. Victor Boucher
+3. Sanne 't Hooft
 
 
 
 ## Eindgesprek (week 7/8)
 
--dit ging goed & dit was lastig-
+- Javascript blijft lastig
+
+
+Ik heb de volgende pagina's geprobeerd uit te werken
 
 **Screenshot(s):**
 
@@ -24,33 +27,32 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+- Gebruik focus ipv active
+- Hamburgermenu fake (query selector all for-loop )
+- JS document.queryselector(“nav .actief”).classlist.remove(“actief”)
+- e.target.classlist.addd(“click, function
+- Desktop :over bewaarknop
+
 
 
 
 ## Voortgang 2 (week 5)
 
-### Stand van zaken
-
 - Toepassen van animaties is lastig.
 
 - Kleuren SVG's verandere met JS is nog niet helemaal gelukt. 
 
-
-## Voortgang 1 (week 3)
-
 ### Stand van zaken
 ![Screenshot voortgangsgesprek](https://github.com/jamero7/FED20/blob/master/images/ScreenshotVoortgang2.png?raw=true)
 
-Het uitlijnen van iconen was lastig. 
+
+
+## Voortgang 1 (week 3)
+
+-Het uitlijnen van iconen was lastig. 
 
 **Screenshot(s):**
-
 ![Screenshot voortgangsgesprek](https://github.com/jamero7/FED20/blob/master/images/ScreenshotVoortgang1.png?raw=true)
-
-### Agenda voor meeting
-
--samen met je groepje opstellen-
 
 ### Verslag van meeting
 
