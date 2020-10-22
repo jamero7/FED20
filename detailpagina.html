@@ -11,15 +11,12 @@
 	<link href="styles/style.css" rel="stylesheet">
 </head>
 
-<body>
-    <header>
-        <h1>Pinterest</h1>
-        <div></div>
-        <form action="">
-            <input type="text" placeholder="Zoeken" name="zoeken">
-        </form>
-            <button>Toevoegen</button>
-            <button>Berichten</button> 
+<body id="bodyDetail">
+    <header id="headerDetail">
+        <a href="index.html"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 173.75 276.54"><title>terug</title><path class="cls-1" d="M130.92,7.35h0L0,138.27l35.48,35.48L166.4,42.82h0A25.08,25.08,0,0,0,130.92,7.35Z"/><path class="cls-1" d="M166.4,233.72h0L35.48,102.79,0,138.27,130.92,269.2h0a25.09,25.09,0,0,0,35.48-35.48Z"/></svg></a>
+        <button id="detailOpties">Opties</button>
+        <button>Delen</button>
+        <button>Bewaren</button>
     </header>
     <nav id="navigatie">
         <ul>
@@ -87,87 +84,64 @@
             <p>Deze pin is ge&iuml;spireerd door je recente activiteit</p> 
         </div>  
     </div>
-    <main class="articleContainer">
-        <article>
-            <a href="detailpagina.html"><img class="content" src="images/content/pexels-matt-hardy-2453224.jpg" alt="Afbeelding van Matt Hardy"></a>
-            <button class="optiesKnop">Opties</button>
-        </article>
-        <article>
-            <img class="content" src="images/content/marc-kleen-JaN_Ge2ZipU-unsplash.jpg" alt="Afbeelding van Marc Kleen Jan">
-            <button class="optiesKnop">Opties</button>
-        </article>
-        <article>
-            <img class="content" src="images/content/hassan-sajjad-5sOvIR6ySaU-unsplash.jpg" alt="Afbeelding van Hassan Sajjad">
-            <button class="optiesKnop">Opties</button>
-        </article>
-        <article>
-            <img class="content" src="images/content/chris-hardy-7Q2UaW10OK0-unsplash.jpg" alt="Afbeelding van Chris Hardy">
-            <button class="optiesKnop">Opties</button>
-        </article>
-        <article>
-            <img class="content" src="images/content/pexels-thomas-svensson-3145755.jpg" alt="Afbeelding van Thomas Svensson">
-            <button class="optiesKnop">Opties</button>
-        </article>
-        <article>
-            <img class="content" src="images/content/pexels-tom-verdoot-3722196.jpg" alt="Afbeelding Tom Verdoot">
-            <button class="optiesKnop">Opties</button>
-        </article>
-        <article>
-            <img class="content" src="images/content/pexels-wherbson-rodrigues-4724068.jpg" alt="Afbeelding van Wherbson Rodrigues">
-            <button class="optiesKnop">Opties</button>
-        </article>
-        <article>
-            <img class="content" src="images/content/joshua-gresham-EEN3Nozgttw-unsplash.jpg" alt="Afbeelding van Joshua Gresham">
-            <button class="optiesKnop">Opties</button>
-        </article>
-        <article>
-            <img class="content" src="images/content/bechir-kaddech-WilZDWbw2zU-unsplash.jpg" alt="Afbeelding van Bechir Kaddech">
-            <button class="optiesKnop">Opties</button>
-        </article>
-        <article>
-            <img class="content" src="images/content/alana-mediavilla-O0iCf05NCt8-unsplash.jpg" alt="Afbeelding van Alana Mediavilla">
-            <button class="optiesKnop">Opties</button>
-        </article>
-        <article>
-            <img class="content" src="images/content/pexels-raphael-brasileiro-2440799.jpg" alt="Afbeelding van Raphael Brasileiro">
-            <button class="optiesKnop">Opties</button>
-        </article>
-        <article>
-            <img class="content" src="images/content/logan-weaver-TH8oDzQx4fA-unsplash.jpg" alt="Afbeelding van Logan Weaver">
-            <button class="optiesKnop">Opties</button>
-        </article>
-        <article>
-            <img class="content" src="images/content/joshua-gresham-6KzSud-4gJE-unsplash.jpg" alt="Afbeelding van Joshua Gresham">
-            <button class="optiesKnop">Opties</button>
-        </article>
-        <article>
-            <img class="content" src="images/content/pexels-spencer-davis-4388290.jpg" alt="Afbeelding van Spencer Davis">
-            <button class="optiesKnop">Opties</button>
-        </article>
-        <article>
-            <img class="content" src="images/content/pexels-adrianna-calvo-4524060.jpg" alt="Afbeelding van Adrianna Calvo">
-            <button class="optiesKnop">Opties</button>
-        </article>
-        <article>
-            <img class="content" src="images/content/pexels-luca-nardone-4827702.jpg" alt="Afbeelding van Luca Nardone">
-            <button class="optiesKnop">Opties</button>
-        </article>
-        <article>
-            <img class="content" src="images/content/pexels-marcelo-chagas-4392858.jpg" alt="Afbeelding van Marcelo Chagas">
-            <button class="optiesKnop">Opties</button>
-        </article>
-        <article>
-            <img class="content" src="images/content/pexels-lisa-fotios-5280905.jpg" alt="Afbeelding van Lisa Fotios">
-            <button class="optiesKnop">Opties</button>
-        </article>
-        <article>
-            <img class="content" src="images/content/pexels-thethinframe-5156010.jpg" alt="Afbeelding van Thethinframe">
-            <button class="optiesKnop">Opties</button>
-        </article>
-        <article>
-            <img class="content" src="images/content/pexels-roman-odintsov-4925891.jpg" alt="Afbeelding van Roman Odintsov">
-            <button class="optiesKnop">Opties</button>
-        </article>
+    <div id="optiesMenu2"class="optiesMenu">
+        <div>
+            <button>Sluiten</button>
+            <ul>
+                <li>In app openen</li>
+                <li>Afbeelding downloaden</li>
+                <li>Pin rapporteren</li>
+            </ul>
+        </div>  
+    </div>
+    <main id="mainDetail">
+        <section id="detailSection">
+            <img class="content" src="images/content/pexels-matt-hardy-2453224.jpg" alt="Afbeelding van Matt Hardy">
+            <div>
+                <p>Afkomstig van <a href="https://www.pexels.com/nl-nl/">Pexels.com</a></p>
+                <h2>Streetlights | Matt Hardy</h2>
+            </div>
+        </section>
+        <section id="articleSection">
+            <p>Meer zoals dit</p>
+            <div class="articleContainer">
+                <article>
+                    <img class="content" src="images/content/marc-kleen-JaN_Ge2ZipU-unsplash.jpg" alt="Afbeelding van Marc Kleen Jan">
+                    <h3>Avontuur | Marc Kleen</h3>
+                    <button class="optiesKnop">Opties</button>
+                </article>
+                <article>
+                    <img class="content" src="images/content/hassan-sajjad-5sOvIR6ySaU-unsplash.jpg" alt="Afbeelding van Hassan Sajjad">
+                    <h3>Schip | Hassan Sajjad</h3>
+                    <button class="optiesKnop">Opties</button>
+                </article>
+                <article>
+                    <img class="content" src="images/content/chris-hardy-7Q2UaW10OK0-unsplash.jpg" alt="Afbeelding van Chris Hardy">
+                    <h3>Fiets | Chris Hardy</h3>
+                    <button class="optiesKnop">Opties</button>
+                </article>
+                <article>
+                    <img class="content" src="images/content/pexels-thomas-svensson-3145755.jpg" alt="Afbeelding van Thomas Svensson">
+                    <h3>Skyline | Thomas Svensson</h3>
+                    <button class="optiesKnop">Opties</button>
+                </article>
+                <article>
+                    <img class="content" src="images/content/pexels-tom-verdoot-3722196.jpg" alt="Afbeelding Tom Verdoot">
+                    <h3>Hond | Tom Verdoot</h3>
+                    <button class="optiesKnop">Opties</button>
+                </article>
+                <article>
+                    <img class="content" src="images/content/pexels-wherbson-rodrigues-4724068.jpg" alt="Afbeelding van Wherbson Rodrigues">
+                    <h3>Verrassing  | Wherbson Rodrigues</h3>
+                    <button class="optiesKnop">Opties</button>
+                </article>
+                <article>
+                    <img class="content" src="images/content/joshua-gresham-EEN3Nozgttw-unsplash.jpg" alt="Afbeelding van Joshua Gresham">
+                    <h3>Nightsky | Joshua Gesham</h3>
+                    <button class="optiesKnop">Opties</button>
+                </article>
+            </div>
+        </section>
     </main>
 
 	<script src="scripts/script.js"></script>

@@ -10,6 +10,10 @@ body{
     position: relative;
 }
 
+#bodyDetail{
+    margin: 0;
+}
+
 header{
     background-color: #fff;
     padding: 0.75rem 0.5rem 0.75rem 0.5rem;
@@ -19,8 +23,7 @@ header{
     width: 100%;
     z-index: 1;
     display: grid;
-    grid-template-columns: 2.5em 1fr repeat(2, 2.5rem);
-    grid-template-rows: 1fr;
+    grid-template-columns: 2.5em 1fr 2.5rem 2.5rem;
 }
 
 h1{
@@ -41,7 +44,6 @@ header form input{
     font-weight: 550;
     font-size: 1rem;
     padding-left: 2.5rem;
-    outline: none;
 }
 
 header div{
@@ -58,7 +60,6 @@ header button:first-of-type{
     background: url(https://raw.githubusercontent.com/jamero7/FED20/50c091b684a37021ab5a68bb0a6b499cfa8188a4/images/iconen/toevoegen.svg) no-repeat center;
     grid-column: 3/4;
     grid-row: 1/2;
-    outline: none;
 }
 
 header button{
@@ -70,6 +71,54 @@ header button{
     height: 1.5rem;
     grid-column: 4/5;
     grid-row: 1/2;
+}
+
+#headerDetail{
+    display: grid;
+    grid-template-columns: 2.5rem 2.5rem 1fr 2.5rem 6rem;
+    background-color: rgba(255,255,255,0.9);
+}
+
+#headerDetail a{
+    margin: auto;
+    width: 1.25rem;
+    height: 1.25rem;
+    grid-column: 1/2;
+}
+
+#headerDetail svg{
+    width: 1.25rem;
+    height: 1.25rem;
+    fill: #777;
+}
+
+#headerDetail button:nth-of-type(1){
+    background: url(file:///Users/jamero/Library/Mobile%20Documents/com~apple~CloudDocs/School/FED%20Her/basiswebsite/images/iconen/optiesGrijs.svg) no-repeat center; 
+    grid-column: 2/3;
+    width: 1.25rem;
+    height: 1.25rem;
+}
+
+#headerDetail button:nth-of-type(2){
+    background: url(file:///Users/jamero/Library/Mobile%20Documents/com~apple~CloudDocs/School/FED%20Her/basiswebsite/images/iconen/delen.svg) no-repeat center;
+    float: right;
+    display: inline-block;
+    grid-column: 4/5;
+    width: 1.25rem;
+    height: 1.25rem;
+}
+
+#headerDetail button:nth-of-type(3){
+    background-color: #E60122;
+    background-image: none;
+    text-indent: 0;
+    height: 2.5rem;
+    border-radius: 0.25rem;
+    width: 6rem;
+    color: #fff;
+    font-weight: 600;
+    font-size: 1rem;
+    grid-column: 5/6;
 }
 
 nav{
@@ -95,12 +144,14 @@ nav li{
     list-style-type: none;
     width: calc(25% - 0.25rem);
     height: 2rem;
+    color: #767676;
+    fill: #777;
 }
 
 nav svg{
-    width: 1.5rem;
+    width: 1.25rem;
     margin: auto;
-    fill: #777;
+    fill: inherit;
     display: block;
     height: 1.75rem;
     width: 1.75rem;
@@ -108,15 +159,103 @@ nav svg{
 
 ul li span p{
     font-size: 0.8rem;
-    color: #767676;
+    color: inherit;;
     margin: 0;
     width: 100%;
 }
 
-main{
+span:focus{
+    animation-name: knopAnimatie;
+    animation-duration: 1s;
+}
+
+.articleContainer{
     width: 100%;
-    column-count: 2;
+    column-count: 2; 
+    /*Van Sanne op 17-09, https://codepen.io/shooft/pen/NWNLgKQ */
     margin: 4rem 0 4rem 0;
+}
+
+.optiesMenu{
+    height: 100vh;
+    width: 100%;
+    background-color: rgba(0,0,0,0.5);
+    position: fixed;
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    z-index: 2;
+    display: none;
+}
+
+.optiesMenu div{
+    position: absolute;
+    bottom: 0;
+    border-radius: 1rem 1rem 0 0;
+    background-color: #fff;
+    font-weight: 100;
+    font-size: 0.9rem;
+    z-index: 5;
+    width: 100%;
+}
+
+.optiesMenu button{
+    text-indent: -9999px;
+    border: none;
+    background: url(file:///Users/jamero/Library/Mobile%20Documents/com~apple~CloudDocs/School/FED%20Her/basiswebsite/images/iconen/Sluiten.svg) no-repeat center;
+    width: 1.25rem;
+    height: 1.25rem;
+    position: absolute;
+    left: 1.5rem;
+    top: 1.5rem;
+}
+
+.optiesMenu h2{
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    font-size: 1.1rem;
+    margin-top: 2rem;
+}
+
+.optiesMenu ul{
+    width: 100%;
+    background-color: #fff;
+    margin: 0;
+    border-bottom: solid 0.1rem #EFEFEF;
+    padding: 1rem 1rem 0.25rem 1rem;
+    list-style-type: none;
+}
+
+.optiesMenu ul li{
+    font-weight: 600;
+    font-size: 1.1rem;
+    margin: 1rem 0 1rem 0;
+}
+
+.optiesMenu ul li p{
+    padding: 0;
+    margin: 0.5rem 0 0 1.5rem;
+    font-weight: 100;
+    font-size: 0.9rem;
+}
+
+.optiesMenu svg{
+    width: 1rem;
+    height: 1rem;
+    display: inline-block;
+    margin-right: 0.25rem;
+}
+
+.optiesMenu p{
+    background-color: #fff;
+    margin: 0;
+    padding: 1rem 1rem 2rem 1rem;
+}
+
+#optiesMenu2 ul{
+    margin-top: 4rem;
 }
 
 article{
@@ -142,7 +281,59 @@ article button{
     background-color: #fff;
     text-indent: -9999px;
     width: 1rem;
-    outline: none;
+}
+
+#mainDetail{
+    column-count: 1;
+    margin: 4rem 0 4rem 0
+}
+
+#detailSection{
+    max-width: 20rem;
+    margin: auto;
+}
+
+#detailSection img{
+    display: block;
+    width: 100%;
+    margin: 0;
+    border-radius: 0;
+}
+
+#detailSection div{
+    margin: 2rem 1.5rem 2rem 1.5rem;
+}
+
+#detailSection a{
+    font-weight: 600;
+    text-decoration: none;
+    color: #000;
+}
+
+#detailSection h2{
+    font-size: 1.25rem;
+    border-bottom: 1rem;
+}
+
+#articleSection{
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    border-top: solid 0.1rem #DDDDDD;
+}
+
+#articleSection p{
+    font-weight: 600;
+}
+
+#articleSection div{
+    margin: 0;
+}
+
+h3{
+    width: 60%;
+    position: absolute;
+    bottom: -3rem;
+    font-size: 0.75rem;
 }
 
 .actief{
@@ -150,7 +341,7 @@ article button{
     fill: #000;
 }
 
-@keyframes opties-animatie{
+@keyframes knopAnimatie{
     0%{
         transform: scale(1);
     }
@@ -160,24 +351,24 @@ article button{
 }
 
 article button:focus{
-    animation-name: opties-animatie;
-    animation-duration: 1s;
+    animation-name: knopAnimatie;
+    animation-duration: 0.1s;
 }
 
-@media only screen and (min-width: 608px) {
-  main {
+@media only screen and (min-width: 608px){
+  .articleContainer{
     column-count: 3;
   }
 }
 
-@media only screen and (min-width: 808px) {
-  main {
+@media only screen and (min-width: 808px){
+  .articleContainer{
     column-count: 4;
   }
 }
 
-@media only screen and (min-width: 1008px) {
-  main {
+@media only screen and (min-width: 1008px){
+  .articleContainer{
     column-count: 5;
   }
 }
