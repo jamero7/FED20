@@ -32,10 +32,10 @@ Zoals te zien is wijkt vooral de homepagina af van mijn homepagina. Dit komt omd
 **Screenshot(s):**
 
 -screenshot(s) van je eindresultaat-
-![Screenshot Eindresultaat 1](https://github.com/jamero7/FED20/blob/master/images/Eindresultaat%201.png?raw=true)
-![Screenshot Eindresultaat 2](https://github.com/jamero7/FED20/blob/master/images/Eindresultaat%202.png?raw=true)
-![Screenshot Eindresultaat 3](https://github.com/jamero7/FED20/blob/master/images/Eindresultaat%203.png?raw=true)
-![Screenshot Eindresultaat 4](https://github.com/jamero7/FED20/blob/master/images/Eindresultaat%204.png?raw=true)
+-[Screenshot Homepagina](https://github.com/jamero7/FED20/blob/master/images/Eindresultaat%201.png?raw=true)
+-[Screenshot Homepagina Opties-menu](https://github.com/jamero7/FED20/blob/master/images/Eindresultaat%202.png?raw=true)
+-[Screenshot Detailpagina](https://github.com/jamero7/FED20/blob/master/images/Eindresultaat%203.png?raw=true)
+-[Screenshot Detailpagina Opties-menu](https://github.com/jamero7/FED20/blob/master/images/Eindresultaat%204.png?raw=true)
 
 
 
@@ -63,7 +63,7 @@ De volgende punten moet ik toepassen op mijn website:
 - Kleuren SVG's verandere met JS is nog niet helemaal gelukt. 
 
 ### Stand van zaken
-![Screenshot voortgangsgesprek](https://github.com/jamero7/FED20/blob/master/images/ScreenshotVoortgang2.png?raw=true)
+[Screenshot Voortgangsgesprek 2](https://github.com/jamero7/FED20/blob/master/images/ScreenshotVoortgang2.png?raw=true)
 
 ### Verslag van meeting
 
@@ -80,7 +80,7 @@ Er zijn nog een aantal punten waar ik aan moet werken. Ook kwam er naar voren da
 - Het uitlijnen van iconen was lastig. 
 
 **Screenshot(s):**
-![Screenshot voortgangsgesprek](https://github.com/jamero7/FED20/blob/master/images/ScreenshotVoortgang1.png?raw=true)
+[Screenshot Voortgangsgesprekc 1](https://github.com/jamero7/FED20/blob/master/images/ScreenshotVoortgang1.png?raw=true)
 
 ### Verslag van meeting
 
