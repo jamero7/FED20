@@ -15,8 +15,7 @@ Victor was er bij elk van mijn voortgangsgesprekken aanwezig. Veel van de nuttig
 3. Sanne 't Hooft
 Via Microsoft Teams vroeg ik om op 11-09 om hulp bij het maken van meerdere kolommen. Sanne gaf mij hierbij de volgende opties.
 
-![Screenshot antwoord Sanne]
-(https://github.com/jamero7/FED20/blob/master/images/ScreenshotAntwoord.png?raw=true) 
+![Screenshot antwoord Sanne](https://github.com/jamero7/FED20/blob/master/images/ScreenshotAntwoord.png?raw=true). 
 
 
 
@@ -25,14 +24,18 @@ Via Microsoft Teams vroeg ik om op 11-09 om hulp bij het maken van meerdere kolo
 - Javascript blijft lastig
 
 Ik heb de volgende pagina's geprobeerd uit te werken
-(https://github.com/jamero7/FED20/blob/master/images/ScreenshotPinterest3.png?raw=true)(https://github.com/jamero7/FED20/blob/master/images/ScreenshotPinterest4.png?raw=true)
+[Screenshot](https://github.com/jamero7/FED20/blob/master/images/ScreenshotPinterest3.png?raw=true)
+[Screenshot](https://github.com/jamero7/FED20/blob/master/images/ScreenshotPinterest4.png?raw=true)
 
 Zoals te zien is wijkt vooral de homepagina af van mijn homepagina. Dit komt omdat Pinterest (helaas) de nodige wijzigingen door heeft gebracht op de website. Ik heb mijn website gebassseerd op de oude versie van Pinterest. 
 
 **Screenshot(s):**
 
 -screenshot(s) van je eindresultaat-
-(https://github.com/jamero7/FED20/blob/master/images/Eindresultaat%201.png?raw=true)(https://github.com/jamero7/FED20/blob/master/images/Eindresultaat%202.png?raw=true)(https://github.com/jamero7/FED20/blob/master/images/Eindresultaat%203.png?raw=true)(https://github.com/jamero7/FED20/blob/master/images/Eindresultaat%204.png?raw=true)
+[Screenshot Eindresultaat](https://github.com/jamero7/FED20/blob/master/images/Eindresultaat%201.png?raw=true)
+[Screenshot Eindresultaat](https://github.com/jamero7/FED20/blob/master/images/Eindresultaat%202.png?raw=true)
+[Screenshot Eindresultaat](https://github.com/jamero7/FED20/blob/master/images/Eindresultaat%203.png?raw=true)
+[Screenshot Eindresultaat](https://github.com/jamero7/FED20/blob/master/images/Eindresultaat%204.png?raw=true)
 
 
 
