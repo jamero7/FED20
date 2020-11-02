@@ -24,18 +24,18 @@ Via Microsoft Teams vroeg ik om op 11-09 om hulp bij het maken van meerdere kolo
 - Javascript blijft lastig
 
 Ik heb de volgende pagina's geprobeerd uit te werken
-[Screenshot](https://github.com/jamero7/FED20/blob/master/images/ScreenshotPinterest3.png?raw=true)
-[Screenshot](https://github.com/jamero7/FED20/blob/master/images/ScreenshotPinterest4.png?raw=true)
+![Screenshot](https://github.com/jamero7/FED20/blob/master/images/ScreenshotPinterest3.png?raw=true)
+![Screenshot](https://github.com/jamero7/FED20/blob/master/images/ScreenshotPinterest4.png?raw=true)
 
 Zoals te zien is wijkt vooral de homepagina af van mijn homepagina. Dit komt omdat Pinterest (helaas) de nodige wijzigingen door heeft gebracht op de website. Ik heb mijn website gebassseerd op de oude versie van Pinterest. 
 
 **Screenshot(s):**
 
 -screenshot(s) van je eindresultaat-
-[Screenshot Eindresultaat](https://github.com/jamero7/FED20/blob/master/images/Eindresultaat%201.png?raw=true)
-[Screenshot Eindresultaat](https://github.com/jamero7/FED20/blob/master/images/Eindresultaat%202.png?raw=true)
-[Screenshot Eindresultaat](https://github.com/jamero7/FED20/blob/master/images/Eindresultaat%203.png?raw=true)
-[Screenshot Eindresultaat](https://github.com/jamero7/FED20/blob/master/images/Eindresultaat%204.png?raw=true)
+![Screenshot Eindresultaat 1](https://github.com/jamero7/FED20/blob/master/images/Eindresultaat%201.png?raw=true)
+![Screenshot Eindresultaat 2](https://github.com/jamero7/FED20/blob/master/images/Eindresultaat%202.png?raw=true)
+![Screenshot Eindresultaat 3](https://github.com/jamero7/FED20/blob/master/images/Eindresultaat%203.png?raw=true)
+![Screenshot Eindresultaat 4](https://github.com/jamero7/FED20/blob/master/images/Eindresultaat%204.png?raw=true)
 
 
 
@@ -44,7 +44,6 @@ Zoals te zien is wijkt vooral de homepagina af van mijn homepagina. Dit komt omd
 -JavaScript maakt het lastig. 
 
 ### Stand van zaken
-![Screenshot voortgangsgesprek]
 Ik ben deze week vooral aan de slag geweest met de JavaScript dus is de layout van de pagina hetzelfde gebleven als de week hiervoor.
 
 ### Verslag van meeting
