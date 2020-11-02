@@ -7,8 +7,16 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Bronnenlijst
 1. Robert Spier
+Tijdens de afgelopen lessen heb ik veel elementen uit JS, CSS en HTML 'opieuw' uitgevonden. Door de uitleg begreep ik deze keer wel hoe ik Position bijvoorbeeld goed kan gebruiken. Dit heb ik meerdere malen in de website toegepast. Zie ook de feedback van de voortgangsgesprekken. 
+
 2. Victor Boucher
+Victor was er bij elk van mijn voortgangsgesprekken aanwezig. Veel van de nuttige feedback zoals bij voorgangsgesprek 1 komt van Victor. 
+
 3. Sanne 't Hooft
+Via Microsoft Teams vroeg ik om op 11-09 om hulp bij het maken van meerdere kolommen. Sanne gaf mij hierbij de volgende opties.
+
+![Screenshot antwoord Sanne]
+(https://github.com/jamero7/FED20/blob/master/images/ScreenshotAntwoord.png?raw=true) 
 
 
 
@@ -16,40 +24,58 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 - Javascript blijft lastig
 
-
 Ik heb de volgende pagina's geprobeerd uit te werken
+(https://github.com/jamero7/FED20/blob/master/images/ScreenshotPinterest3.png?raw=true)(https://github.com/jamero7/FED20/blob/master/images/ScreenshotPinterest4.png?raw=true)
+
+Zoals te zien is wijkt vooral de homepagina af van mijn homepagina. Dit komt omdat Pinterest (helaas) de nodige wijzigingen door heeft gebracht op de website. Ik heb mijn website gebassseerd op de oude versie van Pinterest. 
 
 **Screenshot(s):**
 
 -screenshot(s) van je eindresultaat-
+(https://github.com/jamero7/FED20/blob/master/images/Eindresultaat%201.png?raw=true)(https://github.com/jamero7/FED20/blob/master/images/Eindresultaat%202.png?raw=true)(https://github.com/jamero7/FED20/blob/master/images/Eindresultaat%203.png?raw=true)(https://github.com/jamero7/FED20/blob/master/images/Eindresultaat%204.png?raw=true)
 
 
 
 ## Voortgang 3 (week 6)
 
-- Gebruik focus ipv active
-- Hamburgermenu fake (query selector all for-loop )
-- JS document.queryselector(“nav .actief”).classlist.remove(“actief”)
-- e.target.classlist.addd(“click, function
-- Desktop :over bewaarknop
+-JavaScript maakt het lastig. 
 
+### Stand van zaken
+![Screenshot voortgangsgesprek]
+Ik ben deze week vooral aan de slag geweest met de JavaScript dus is de layout van de pagina hetzelfde gebleven als de week hiervoor.
+
+### Verslag van meeting
+
+De volgende punten moet ik toepassen op mijn website:
+
+- Gebruik focus ipv active
+- Hamburgermenu fake (querySelectorAll for-loop )
+- JS document.queryselector(“nav .actief”).classlist.remove(“actief”)
+- e.target.classlist.add(“click, function
 
 
 
 ## Voortgang 2 (week 5)
 
 - Toepassen van animaties is lastig.
-
 - Kleuren SVG's verandere met JS is nog niet helemaal gelukt. 
 
 ### Stand van zaken
 ![Screenshot voortgangsgesprek](https://github.com/jamero7/FED20/blob/master/images/ScreenshotVoortgang2.png?raw=true)
 
+### Verslag van meeting
+
+Er zijn nog een aantal punten waar ik aan moet werken. Ook kwam er naar voren dat ik toch de Buttons niet leeg moet lagen maar een indent moet gebruiken. 
+
+- Gebruik focus ipv active
+- Hamburgermenu fake (query selector all for-loop )
+- JS document.queryselector(“nav .actief”).classlist.remove(“actief”)
+
 
 
 ## Voortgang 1 (week 3)
 
--Het uitlijnen van iconen was lastig. 
+- Het uitlijnen van iconen was lastig. 
 
 **Screenshot(s):**
 ![Screenshot voortgangsgesprek](https://github.com/jamero7/FED20/blob/master/images/ScreenshotVoortgang1.png?raw=true)
@@ -59,9 +85,7 @@ Ik heb de volgende pagina's geprobeerd uit te werken
 Volgens Victor ben ik goed op weg. Ik had een aantal vragen die hij heeft kunnen beantwoorden en ik kreeg nog een tip. Aan de volgende punten ga ik werken tot het volgende voortgangsgesprek werken:
 
 - Buttons leeglaten wanneer je geen tekst er in wil.
-
 - SVG in html, gebruik fill om de kleur te veranderen.
-
 - **TIP:** Probeer een animatie toe te voegen bij ‘opties’.
 
 
