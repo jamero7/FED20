@@ -1,5 +1,5 @@
 # Procesverslag
-**Auteur:** -Jamero Rigters-
+**Auteur:** Jamero Rigters
 
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 
@@ -35,19 +35,19 @@ Zoals te zien is wijkt vooral de homepagina af van mijn homepagina. Dit komt omd
 
 **Screenshot(s):**
 
--[Screenshot Homepagina](https://github.com/jamero7/FED20/blob/master/images/Eindresultaat%201.png?raw=true)
+- [Screenshot Homepagina](https://github.com/jamero7/FED20/blob/master/images/Eindresultaat%201.png?raw=true)
 
--[Screenshot Homepagina Opties-menu](https://github.com/jamero7/FED20/blob/master/images/Eindresultaat%202.png?raw=true)
+- [Screenshot Homepagina Opties-menu](https://github.com/jamero7/FED20/blob/master/images/Eindresultaat%202.png?raw=true)
 
--[Screenshot Detailpagina](https://github.com/jamero7/FED20/blob/master/images/Eindresultaat%203.png?raw=true)
+- [Screenshot Detailpagina](https://github.com/jamero7/FED20/blob/master/images/Eindresultaat%203.png?raw=true)
 
--[Screenshot Detailpagina Opties-menu](https://github.com/jamero7/FED20/blob/master/images/Eindresultaat%204.png?raw=true)
+- [Screenshot Detailpagina Opties-menu](https://github.com/jamero7/FED20/blob/master/images/Eindresultaat%204.png?raw=true)
 
 
 
 ## Voortgang 3 (week 6)
 
--JavaScript maakt het lastig. 
+- JavaScript maakt het lastig. 
 
 ### Stand van zaken
 Ik ben deze week vooral aan de slag geweest met de JavaScript dus is de layout van de pagina hetzelfde gebleven als de week hiervoor.
