@@ -8,8 +8,20 @@ const optiesMenu2 = document.querySelector("#optiesMenu2");
 const sluiten = document.querySelector(".optiesMenu button");
 const sluiten2 = document.querySelector("#optiesMenu2 button");
 
-let opties = document.querySelector(".optiesKnop");
+let opties = document.getElementsByClassName("optiesKnop");
 let optiesMenu = document.querySelector(".optiesMenu");
+
+function openMenu(){
+    optiesMenu.style.display = "block";
+};
+
+for (var i = 0; i < opties.length; i ++) {
+  var boxa = opties[i].parentNode.id;
+  opties[i].addEventListener("click", function() {
+    openMenu(boxa);
+  }, false);
+}
+//De code voor de loop komt van StackOverflow, https://stackoverflow.com/questions/19586137/addeventlistener-using-for-loop-and-passing-values
 
 startpagina.addEventListener("click", function(){
     let actief = document.querySelector(".actief");
@@ -35,13 +47,8 @@ bewaard.addEventListener("click", function(){
     bewaard.classList.add("actief");
 }); 
 
-opties.addEventListener("click", function(){
-    optiesMenu.style.display = "block";
-});
-
 sluiten.addEventListener("click", function(){
     optiesMenu.style.display = "none";
-    console.log("wagwan");
 });
 
 detailOpties.addEventListener("click", function(){
@@ -50,5 +57,4 @@ detailOpties.addEventListener("click", function(){
 
 sluiten2.addEventListener("click", function(){
     optiesMenu2.style.display = "none";
-    console.log("wagwan");
 });

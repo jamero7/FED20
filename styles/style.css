@@ -93,14 +93,14 @@ header button{
 }
 
 #headerDetail button:nth-of-type(1){
-    background: url(file:///Users/jamero/Library/Mobile%20Documents/com~apple~CloudDocs/School/FED%20Her/basiswebsite/images/iconen/optiesGrijs.svg) no-repeat center; 
+    background: url(https://raw.githubusercontent.com/jamero7/FED20/5383222c35a2e22c2b5c36eaf0ade340b95e0712/images/iconen/optiesGrijs.svg) no-repeat center; 
     grid-column: 2/3;
     width: 1.25rem;
     height: 1.25rem;
 }
 
 #headerDetail button:nth-of-type(2){
-    background: url(file:///Users/jamero/Library/Mobile%20Documents/com~apple~CloudDocs/School/FED%20Her/basiswebsite/images/iconen/delen.svg) no-repeat center;
+    background: url(https://raw.githubusercontent.com/jamero7/FED20/5383222c35a2e22c2b5c36eaf0ade340b95e0712/images/iconen/delen.svg) no-repeat center;
     float: right;
     display: inline-block;
     grid-column: 4/5;
@@ -148,6 +148,18 @@ nav li{
     fill: #777;
 }
 
+a{
+    text-decoration: none;
+    color: #777;
+}
+
+a:hover{
+    color: #000;
+    fill: #000;
+}
+
+/*De Javascript werkt nog steeds voor de nav, alleen door de a tag wordt de pagina telkens opnieuw geladen en veranderd de 'actief' class niet. Ik heb de hover toegevoegd om het te 'faken'. Een button was hier niet semantisch geweest omdat het een link naar een andere pagina betreft.*/
+
 nav svg{
     width: 1.25rem;
     margin: auto;
@@ -172,7 +184,7 @@ span:focus{
 .articleContainer{
     width: 100%;
     column-count: 2; 
-    /*Van Sanne op 17-09, https://codepen.io/shooft/pen/NWNLgKQ */
+    /*Van Sanne 't Hooft op 17-09, https://codepen.io/shooft/pen/NWNLgKQ */
     margin: 4rem 0 4rem 0;
 }
 
@@ -203,7 +215,7 @@ span:focus{
 .optiesMenu button{
     text-indent: -9999px;
     border: none;
-    background: url(file:///Users/jamero/Library/Mobile%20Documents/com~apple~CloudDocs/School/FED%20Her/basiswebsite/images/iconen/Sluiten.svg) no-repeat center;
+    background: url(https://raw.githubusercontent.com/jamero7/FED20/5383222c35a2e22c2b5c36eaf0ade340b95e0712/images/iconen/Sluiten.svg) no-repeat center;
     width: 1.25rem;
     height: 1.25rem;
     position: absolute;
@@ -329,11 +341,18 @@ article button{
     margin: 0;
 }
 
+#articleSection article{
+    margin-bottom: 1rem;
+}
+
 h3{
     width: 60%;
-    position: absolute;
-    bottom: -3rem;
     font-size: 0.75rem;
+}
+
+#articleSection button{
+    position: absolute;
+    bottom: 1rem;
 }
 
 .actief{

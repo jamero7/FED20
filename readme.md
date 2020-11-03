@@ -43,6 +43,14 @@ Zoals te zien is wijkt vooral de homepagina af van mijn homepagina. Dit komt omd
 
 - [Screenshot Detailpagina Opties-menu](https://github.com/jamero7/FED20/blob/master/images/Eindresultaat%204.png?raw=true)
 
+**Feedback:**
+- <a> of <button> bij onderste balk
+- Ontzichtbare knop
+- JavaScript is nog niet helemaal correct
+- Text op detailpagina loopt op mobile een beetje over
+- Wij zijn bronnen, maar het moet iets beter
+- Loop al je inline svgs na, en zorg dat ze kloppen
+
 
 
 ## Voortgang 3 (week 6)
@@ -69,6 +77,7 @@ De volgende punten moet ik toepassen op mijn website:
 - Kleuren SVG's verandere met JS is nog niet helemaal gelukt. 
 
 ### Stand van zaken
+**Screenshot(s):**
 [Screenshot Voortgangsgesprek 2](https://github.com/jamero7/FED20/blob/master/images/ScreenshotVoortgang2.png?raw=true)
 
 ### Verslag van meeting
@@ -85,8 +94,9 @@ Er zijn nog een aantal punten waar ik aan moet werken. Ook kwam er naar voren da
 
 - Het uitlijnen van iconen was lastig. 
 
+### Stand van zaken
 **Screenshot(s):**
-[Screenshot Voortgangsgesprekc 1](https://github.com/jamero7/FED20/blob/master/images/ScreenshotVoortgang1.png?raw=true)
+[Screenshot Voortgangsgesprek 1](https://github.com/jamero7/FED20/blob/master/images/ScreenshotVoortgang1.png?raw=true)
 
 ### Verslag van meeting
 
