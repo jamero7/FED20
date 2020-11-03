@@ -13,7 +13,7 @@ Tijdens de afgelopen lessen heb ik veel elementen uit JS, CSS en HTML 'opieuw' u
 Victor was er bij elk van mijn voortgangsgesprekken aanwezig. Veel van de nuttige feedback zoals bij voorgangsgesprek 1 komt van Victor. 
 
 3. Sanne 't Hooft
-Via Microsoft Teams vroeg ik om op 11-09 om hulp bij het maken van meerdere kolommen. Sanne gaf mij hierbij de volgende opties.
+Via Microsoft Teams vroeg ik om op 11-09 om hulp bij het maken van meerdere kolommen. Sanne gaf mij hierbij de volgende opties (Zie de onderstaande afbeelding).
 
 3. StackOverflow
 Het was lastig voor mij om een loop te maken waarmee ik meerdere elementen vanuit de HTML kon selecteren met JS. Hiervoor heb ik een deel van de code van de volgende pagina gebruikt, https://stackoverflow.com/questions/19586137/addeventlistener-using-for-loop-and-passing-values.
