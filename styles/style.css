@@ -352,7 +352,7 @@ h3{
 
 #articleSection button{
     position: absolute;
-    bottom: 1rem;
+    bottom: 0;
 }
 
 .actief{
