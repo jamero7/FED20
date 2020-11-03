@@ -47,7 +47,7 @@ Zoals te zien is wijkt vooral de homepagina af van mijn homepagina. Dit komt omd
 - [Screenshot Detailpagina Opties-menu](https://github.com/jamero7/FED20/blob/master/images/Eindresultaat%204.png?raw=true)
 
 **Feedback:**
-- <a> of <button> bij onderste balk
+- a of button tag bij onderste balk
 - Ontzichtbare knop
 - JavaScript is nog niet helemaal correct
 - Text op detailpagina loopt op mobile een beetje over
